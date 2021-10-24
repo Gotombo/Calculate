@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimens">10dp</dimen>
+    <dimen name="fivedim">5dp</dimen>
+    <dimen name="toodim">20dp</dimen>
+    <dimen name="treedim">30sp</dimen>
+    <dimen name="fivivdimm">50dp</dimen>
+    <dimen name="rordim">20dp</dimen>
+    <dimen name="tito">250dp</dimen>
+    <dimen name="tendim">10dp</dimen>
+
+    <dimen name="twentdim">20dp</dimen>
+
+    <dimen name="stopitdim">150dp</dimen>
+    <dimen name="dvadcat">20dp</dimen>
+    <dimen name="stocoroc">140dp</dimen>
+    <dimen name="dvestipit">250dp</dimen>
+    <dimen name="fortyone">41dp</dimen>
+    <dimen name="nol">0dp</dimen>
+    <dimen name="tridcatdva">32dp</dimen>
+    <dimen name="dvenadcat">12dp</dimen>
+    <dimen name="vosemdesat">80sp</dimen>
+    <dimen name="soroc">40dp</dimen>
+    <dimen name="shestnadcat">16dp</dimen>
+    <dimen name="vosem">8dp</dimen>
+    <dimen name="dvadcatcit">24dp</dimen>
+</resources>
